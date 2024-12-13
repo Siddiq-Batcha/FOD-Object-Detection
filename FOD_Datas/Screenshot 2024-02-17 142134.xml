@@ -1,0 +1,50 @@
+<annotation>
+	<folder>FOD</folder>
+	<filename>Screenshot 2024-02-17 142134.png</filename>
+	<path>F:\StudenProject\2024\FOD\FOD\Screenshot 2024-02-17 142134.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1494</width>
+		<height>674</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>580</xmin>
+			<ymin>151</ymin>
+			<xmax>765</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>328</ymin>
+			<xmax>668</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1159</xmin>
+			<ymin>244</ymin>
+			<xmax>1368</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>
